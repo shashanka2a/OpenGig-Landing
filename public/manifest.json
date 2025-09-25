@@ -1,0 +1,16 @@
+{
+  "name": "OpenGig - The Complete Business Platform for Freelancers",
+  "short_name": "OpenGig",
+  "description": "Stop relying on Fiverr and Upwork. Build your own professional client portal with streamlined project management, automated workflows, and seamless client communication.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
